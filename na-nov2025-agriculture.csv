@@ -1,0 +1,541 @@
+Series_reference,Period,Data_value,STATUS,Group,Subject,Series_title_1,Series_title_2,Series_title_3,Series_title_4,Series_title_5,UNITS,MAGNTUDE
+SNEA.SG01NAC16P10A11,2007.03,526,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2008.03,482,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2009.03,404,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2010.03,450,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2011.03,563,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2012.03,675,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2013.03,587,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2014.03,573,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2015.03,644,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2016.03,641,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2017.03,470,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2018.03,548,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2019.03,600,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2020.03,518,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2021.03,370,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2022.03,427,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2023.03,376,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A11,2024.03,397,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Wool,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2007.03,1734,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2008.03,1671,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2009.03,2144,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2010.03,2165,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2011.03,2362,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2012.03,2820,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2013.03,2263,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2014.03,2340,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2015.03,2367,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2016.03,2229,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2017.03,2204,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2018.03,2860,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2019.03,3308,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2020.03,3307,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2021.03,2947,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2022.03,3266,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2023.03,3255,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A12,2024.03,2739,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2007.03,1948,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2008.03,1714,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2009.03,2057,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2010.03,1848,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2011.03,2127,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2012.03,2289,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2013.03,2316,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2014.03,2166,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2015.03,2614,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2016.03,3074,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2017.03,2919,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2018.03,3172,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2019.03,3218,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2020.03,3437,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2021.03,3202,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2022.03,3716,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2023.03,3783,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A13,2024.03,3693,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2007.03,166,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2008.03,160,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2009.03,181,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2010.03,179,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2011.03,168,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2012.03,185,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2013.03,172,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2014.03,185,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2015.03,186,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2016.03,180,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2017.03,172,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2018.03,161,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2019.03,164,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2020.03,178,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2021.03,180,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2022.03,195,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2023.03,206,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A14,2024.03,218,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Pigs,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2007.03,5273,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2008.03,9885,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2009.03,6995,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2010.03,8888,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2011.03,10953,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2012.03,10567,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2013.03,10385,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2014.03,14823,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2015.03,9378,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2016.03,7608,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2017.03,10990,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2018.03,12424,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2019.03,12468,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2020.03,13702,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2021.03,14851,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2022.03,17564,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2023.03,16138,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A15,2024.03,15546,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Dairy Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2007.03,148,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2008.03,163,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2009.03,178,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2010.03,156,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2011.03,153,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2012.03,165,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2013.03,167,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2014.03,185,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2015.03,198,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2016.03,207,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2017.03,210,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2018.03,212,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2019.03,221,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2020.03,231,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2021.03,229,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2022.03,214,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2023.03,221,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A16,2024.03,265,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Poultry Products,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2007.03,557,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2008.03,534,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2009.03,724,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2010.03,799,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2011.03,588,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2012.03,745,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2013.03,751,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2014.03,747,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2015.03,707,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2016.03,739,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2017.03,655,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2018.03,674,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2019.03,734,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2020.03,729,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2021.03,741,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2022.03,767,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2023.03,861,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A17,2024.03,874,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Crops and Seeds,,,,Dollar,6
+SNEA.SG01NAC16P10A18,2007.03,1660,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2008.03,1704,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2009.03,2102,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2010.03,1983,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2011.03,1869,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2012.03,2089,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2013.03,2000,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2014.03,2314,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2015.03,2796,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2016.03,3117,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2017.03,3538,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2018.03,3373,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2019.03,3986,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2020.03,4242,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2021.03,4705,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2022.03,4604,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2023.03,5046,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A18,2024.03,4915,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Fruit, Nuts and Oil seeds",,,,Dollar,6
+SNEA.SG01NAC16P10A19,2007.03,808,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2008.03,965,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2009.03,922,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2010.03,988,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2011.03,1061,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2012.03,1018,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2013.03,987,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2014.03,1026,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2015.03,1011,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2016.03,1070,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2017.03,1089,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2018.03,1156,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2019.03,1156,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2020.03,1199,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2021.03,1151,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2022.03,1231,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2023.03,1432,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A19,2024.03,1584,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Vegetables,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2007.03,285,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2008.03,296,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2009.03,272,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2010.03,259,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2011.03,243,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2012.03,251,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2013.03,325,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2014.03,361,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2015.03,423,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2016.03,484,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2017.03,451,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2018.03,580,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2019.03,560,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2020.03,605,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2021.03,727,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2022.03,688,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2023.03,672,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A20,2024.03,637,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Horticultural Products,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2007.03,243,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2008.03,193,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2009.03,210,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2010.03,221,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2011.03,216,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2012.03,216,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2013.03,220,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2014.03,216,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2015.03,193,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2016.03,218,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2017.03,218,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2018.03,224,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2019.03,232,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2020.03,222,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2021.03,226,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2022.03,238,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2023.03,257,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A21,2024.03,272,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Agricultural Services,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2007.03,519,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2008.03,512,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2009.03,497,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2010.03,442,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2011.03,425,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2012.03,455,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2013.03,416,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2014.03,412,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2015.03,411,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2016.03,418,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2017.03,394,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2018.03,473,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2019.03,481,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2020.03,436,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2021.03,376,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2022.03,430,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2023.03,451,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A22,2024.03,437,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Other Products N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2007.03,-96,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2008.03,-138,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2009.03,-244,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2010.03,-11,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2011.03,-58,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2012.03,59,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2013.03,-85,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2014.03,-120,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2015.03,-33,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2016.03,-169,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2017.03,-22,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2018.03,34,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2019.03,-113,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2020.03,-55,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2021.03,-70,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2022.03,11,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2023.03,-89,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A23,2024.03,-77,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Sheep,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2007.03,45,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2008.03,300,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2009.03,187,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2010.03,41,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2011.03,120,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2012.03,127,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2013.03,-82,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2014.03,184,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2015.03,-165,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2016.03,141,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2017.03,168,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2018.03,39,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2019.03,-21,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2020.03,-70,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2021.03,14,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2022.03,-275,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2023.03,-182,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A24,2024.03,-56,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Livestock - Cattle,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2007.03,44,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2008.03,33,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2009.03,56,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2010.03,49,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2011.03,33,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2012.03,26,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2013.03,25,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2014.03,21,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2015.03,17,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2016.03,23,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2017.03,17,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2018.03,-14,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2019.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2020.03,5,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2021.03,-14,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2022.03,-16,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2023.03,1,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A28,2024.03,21,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Value of Change in Stocks - Timber,,,,Dollar,6
+SNEA.SG01NAC16P10A29,2007.03,-55,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2008.03,-41,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2009.03,-35,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2010.03,-9,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2011.03,-7,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2012.03,-12,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2013.03,-8,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2014.03,-15,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2015.03,-19,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2016.03,-20,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2017.03,5,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2018.03,13,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2019.03,-14,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2020.03,11,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2021.03,3,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2022.03,-4,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2023.03,-24,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A29,2024.03,-15,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,"Value of Change in Livestock - Pigs, Deer and Goat",,,,Dollar,6
+SNEA.SG01NAC16P10A30,2007.03,736,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2008.03,737,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2009.03,738,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2010.03,766,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2011.03,848,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2012.03,871,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2013.03,866,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2014.03,760,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2015.03,953,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2016.03,810,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2017.03,1052,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2018.03,1010,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2019.03,1007,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2020.03,1075,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2021.03,1188,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2022.03,1313,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2023.03,1355,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A30,2024.03,993,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Sale of Live Animals,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2007.03,275,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2008.03,339,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2009.03,390,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2010.03,361,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2011.03,418,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2012.03,427,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2013.03,447,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2014.03,428,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2015.03,565,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2016.03,470,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2017.03,461,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2018.03,460,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2019.03,442,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2020.03,518,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2021.03,531,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2022.03,529,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2023.03,557,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A31,2024.03,552,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Non-Farm Income,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2007.03,14816,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2008.03,19509,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2009.03,17778,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2010.03,19575,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2011.03,22082,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2012.03,22973,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2013.03,21752,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2014.03,26606,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2015.03,22246,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2016.03,21240,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2017.03,24991,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2018.03,27399,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2019.03,28429,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2020.03,30290,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2021.03,31357,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2022.03,34898,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2023.03,34316,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P10A99,2024.03,32995,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Output,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2007.03,715,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2008.03,696,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2009.03,705,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2010.03,732,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2011.03,809,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2012.03,832,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2013.03,776,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2014.03,727,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2015.03,803,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2016.03,757,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2017.03,986,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2018.03,963,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2019.03,973,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2020.03,984,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2021.03,980,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2022.03,1026,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2023.03,1084,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A01,2024.03,965,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Purchase of Livestock,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2007.03,1278,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2008.03,2098,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2009.03,2034,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2010.03,2043,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2011.03,2401,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2012.03,2563,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2013.03,2724,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2014.03,3186,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2015.03,3256,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2016.03,2899,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2017.03,2835,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2018.03,3195,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2019.03,3543,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2020.03,3713,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2021.03,4133,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2022.03,4651,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2023.03,4944,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A02,2024.03,4666,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Feed and Grazing,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2007.03,594,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2008.03,716,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2009.03,678,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2010.03,696,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2011.03,794,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2012.03,814,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2013.03,924,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2014.03,953,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2015.03,1011,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2016.03,919,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2017.03,976,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2018.03,1056,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2019.03,1101,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2020.03,1151,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2021.03,1174,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2022.03,1270,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2023.03,1324,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A03,2024.03,1360,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Animal Health and Breeding,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2007.03,336,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2008.03,348,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2009.03,365,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2010.03,365,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2011.03,367,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2012.03,398,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2013.03,386,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2014.03,419,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2015.03,432,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2016.03,480,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2017.03,461,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2018.03,509,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2019.03,528,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2020.03,526,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2021.03,599,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2022.03,627,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2023.03,651,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A04,2024.03,617,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Weed and Pest Control,,,,Dollar,6
+SNEA.SG01NAC16P20A05,2007.03,1455,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2008.03,1859,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2009.03,1946,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2010.03,1950,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2011.03,2049,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2012.03,2248,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2013.03,2233,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2014.03,2287,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2015.03,2303,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2016.03,2254,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2017.03,2223,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2018.03,2331,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2019.03,2468,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2020.03,2547,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2021.03,2569,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2022.03,2967,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2023.03,3266,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A05,2024.03,2937,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,"Fertiliser, Lime and Seeds",,,,Dollar,6
+SNEA.SG01NAC16P20A06,2007.03,630,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2008.03,705,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2009.03,782,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2010.03,743,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2011.03,762,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2012.03,845,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2013.03,891,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2014.03,915,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2015.03,898,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2016.03,860,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2017.03,878,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2018.03,931,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2019.03,1024,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2020.03,1023,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2021.03,929,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2022.03,1217,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2023.03,1520,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A06,2024.03,1403,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Fuel and Power,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2007.03,1128,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2008.03,1353,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2009.03,1289,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2010.03,1258,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2011.03,1398,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2012.03,1627,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2013.03,1573,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2014.03,1836,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2015.03,1797,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2016.03,1669,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2017.03,1791,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2018.03,2018,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2019.03,2025,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2020.03,2163,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2021.03,2232,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2022.03,2349,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2023.03,2502,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A07,2024.03,2457,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Repairs and Maintenance,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2007.03,237,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2008.03,279,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2009.03,290,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2010.03,284,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2011.03,294,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2012.03,305,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2013.03,319,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2014.03,335,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2015.03,339,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2016.03,362,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2017.03,356,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2018.03,366,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2019.03,380,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2020.03,435,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2021.03,455,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2022.03,477,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2023.03,527,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A08,2024.03,539,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Freight,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2007.03,2261,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2008.03,2486,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2009.03,2553,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2010.03,2846,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2011.03,2566,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2012.03,2720,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2013.03,2796,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2014.03,2838,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2015.03,3167,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2016.03,3348,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2017.03,3376,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2018.03,3419,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2019.03,3731,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2020.03,3883,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2021.03,3968,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2022.03,4137,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2023.03,5269,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A09,2024.03,5844,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Other input N.E.C.,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2007.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2008.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2009.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2010.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2011.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2012.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2013.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2014.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2015.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2016.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2017.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2018.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2019.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2020.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2021.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2022.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2023.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A10,2024.03,0,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Capitalised Development,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2007.03,8634,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2008.03,10540,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2009.03,10643,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2010.03,10918,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2011.03,11439,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2012.03,12352,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2013.03,12622,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2014.03,13495,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2015.03,14005,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2016.03,13549,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2017.03,13881,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2018.03,14788,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2019.03,15774,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2020.03,16424,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2021.03,17039,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2022.03,18721,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2023.03,21086,REVISED,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
+SNEA.SG01NAC16P20A99,2024.03,20788,FINAL,"Series, GDP(P), Nominal, Actual, Agricultural commodity type",National Accounts - SNA 2008 - SNE,Intermediate Consumption,Total,,,,Dollar,6
