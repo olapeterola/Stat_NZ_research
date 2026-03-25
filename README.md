@@ -8,7 +8,9 @@
 
 This project is a full data science and machine learning analysis of New Zealand's national accounts, using official Statistics New Zealand (Stats NZ) data. The central goal is to trace how income is generated across the economy, how it is redistributed via taxes and transfers, how much is saved by each sector, and whether that saving is being effectively converted into productive investment and real capital accumulation.
 
-The analysis spans data from as far back as 1972 through to the year ended March 2025, covering 44 research questions across 9 analytical modules.
+The analysis spans data from as far back as 1972 through to the year ended March 2025, covering 44 research questions across 9 analytical modules. 
+
+> *Executive summary, key findings, recommendatiuons for businesses, the government and New Zealanders can be found in the file (Findings_Recommendation_and_Summary.pdf).*
 
 
 
