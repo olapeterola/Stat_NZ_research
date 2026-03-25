@@ -88,10 +88,10 @@ The notebook was designed to answer 44 specific research questions across the fo
 2. Upload the CSVs to your Google Drive or directly to a Colab session
 3. Open `NZ_National_Accounts_Analysis.ipynb` in Google Colab
 4. In **Cell 1**, update `DATA_PATH` to point to your files:
-   ```python
+ 
   
-5. Run all cells sequentially 
-
+5. Run all cells sequentially
+   
 The notebook will generate **18+ PNG charts** saved to your working directory.
 
 
