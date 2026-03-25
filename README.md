@@ -65,7 +65,7 @@ The notebook was designed to answer 44 specific research questions across the fo
 - **Income redistribution**: What role do taxes, subsidies, and transfers play in shifting saving capacity?
 - **Structural change**: Are observed patterns cyclical (temporary) or structural (persistent)?
 
-**41 of 44 questions are fully answered.** The three not answered (Q12, Q32, Q44) require additional data on household debt, total factor productivity, and three-measure GDP reconciliation  which are not included in the source files.
+**41 of 44 questions are fully answered.** The three not answered (Q12, Q32, Q44) require additional data on household debt, total factor productivity, and three-measure GDP reconciliation  which are not included in the source files. All the research questions can be found in the notebook (`NZ_National_Accounts_Analysis.ipynb`).
 
 
 
